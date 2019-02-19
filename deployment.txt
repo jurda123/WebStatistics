@@ -1,0 +1,7 @@
+Deploy the WAR file to local tomcat instance(Tomcat version 8+). 
+
+Copy the "WebStatistics.war" file into tomcat/webapps
+start tomcat
+open url http://localhost:8080/WebStatistics/main.html in your favourite browser 
+
+The source application is built on Eclipse IDE
